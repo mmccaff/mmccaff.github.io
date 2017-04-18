@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Matt McCaffrey
 tagline:             Just another GitHub Page... 
-url:                 http://mmccaff.github.io
+url:                 https://mmccaff.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/mmccaff/mmccaff.github.io
 
 # Gems
 gems:
@@ -36,6 +36,4 @@ pages_list:
   Archive: '/archive'
 
 # Optional features
-analytics_id: UA-XXXX-Y
-
-  
+analytics_id: UA-4824740-5
