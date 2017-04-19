@@ -7,6 +7,8 @@ tagline:             Just another GitHub Page...
 url:                 https://mmccaff.github.io/
 paginate:            1
 baseurl:             ""
+twitter_username:    mmccaff
+
 
 # Assets
 #
@@ -30,6 +32,7 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-auto-image
 
 pages_list:       
   About: '/about'
