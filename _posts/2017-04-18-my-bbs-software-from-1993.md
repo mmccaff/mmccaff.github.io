@@ -46,7 +46,7 @@ Logging on required authorization.
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/USERBOX.ANS.png">
 
 # Matrix Login
-Matrix login was the name of an optional feature where a everyone was presented with this menu before logging in, and unvalidated
+Matrix login was the name of an optional feature where everyone was presented with this menu before logging in, and unvalidated
 users could not get past this menu (as opposed to seeing a limited main menu).
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/MATRIX.ANS.png">
