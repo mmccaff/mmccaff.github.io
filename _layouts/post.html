@@ -8,6 +8,10 @@ layout: default
   {{ content }}
 </article>
 
+{% if page.twitter_plug %}
+  {% include twitter_plug.html %}
+{% endif %}
+
 {% if site.related_posts != empty %}
 <aside class="related">
   <h3>Related posts</h3>
