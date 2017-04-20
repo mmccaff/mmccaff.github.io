@@ -20,6 +20,8 @@ Unfortunately I no longer have the source code to Dementia (I would love to see 
 
 There is so much that I could say on this topic, but for the sake of this post, I'd like to look at some of the ANSI files that were part of Dementia's distribution. I used an ansi to png coverter written in Go, called [ansigo](https://www.github.com/fcambus/ansigo), to convert them to png files.
 
+<em>Update: This post was front-paged on Hacker News, and you can [see the discussion here.](https://news.ycombinator.com/item?id=14147583) Thanks to everyone on HN for the comments, I enjoyed the conversation!</em>
+
 # The Welcome Graphic
 
 Before logging in with a username and password (or registering as a new user), a user would be presented with a welcome message for the BBS 
