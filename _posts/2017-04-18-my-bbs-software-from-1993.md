@@ -9,7 +9,7 @@ image: /assets/posts/2017-04-18-my-bbs-software-from-1993/WELCOME.ANS.png
 
 
 The buzz around [Mastodon's](https://mastodon.social/) federated social network has made me nostalgic about bulletin board 
-systems in the early nineties. It was an era that is unknown to most people. It was social networking before the word existed, and before
+systems in the early nineties. It was an era that is unknown to most people. It was social networking before the phrase existed, and before
 giant corporations owned the social networks. Bulletin Board Systems had message boards, private messages, file sharing, and many of the
 social features that we are accustomed to in modern web and mobile applications.
 

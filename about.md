@@ -9,7 +9,7 @@ title: About
 
 A few other places that you can find me:
 
-* [www.mattmccaffrey.com](http://www.mattmccaffrey.com/)
+* [MattMcCaffrey.com](http://www.mattmccaffrey.com/)
 * [GitHub](https://github.com/mmccaff)
 * [Twitter](http://www.twitter.com/mmccaff/)
 * [LinkedIn](http://www.linkedin.com/pub/matt-mccaffrey/5/71a/278)
