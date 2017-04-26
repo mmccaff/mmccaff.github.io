@@ -31,7 +31,7 @@ that they were on. This was the welcome message for my BBS, The Night Light. It 
 
 # New User Registration
 
-User's filled out a new user profile.
+Users filled out a new user profile.
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/NEWINFO.ANS.png">
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/NEWEDIT.ANS.png">
