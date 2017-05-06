@@ -3,9 +3,10 @@ permalink:           pretty
 
 # Setup
 title:               Matt McCaffrey
-tagline:             Just another GitHub Page... 
+tagline:             We gon' be alright...
 url:                 https://mmccaff.github.io/
-paginate:            1
+paginate:            5
+excerpt_separator:   "<!--excerpt-->"
 baseurl:             ""
 twitter_username:    mmccaff
 

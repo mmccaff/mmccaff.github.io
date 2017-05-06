@@ -4,10 +4,14 @@ title: About
 ---
 
 <p class="message">
-  Hey there, I'm Matt, and I'm trying out Jekyll hosted on GitHub Pages.
+   Hi, I'm Matt.
+   <br><br>
+   I enjoy building delightful software, growing successful startups, and coffee.
+   <br><br>
+   I'll use this site to blog about topics that are interesting to me.
 </p>
 
-A few other places that you can find me:
+A few other places where you can find me:
 
 * [MattMcCaffrey.com](http://www.mattmccaffrey.com/)
 * [GitHub](https://github.com/mmccaff)

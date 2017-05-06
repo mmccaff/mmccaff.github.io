@@ -12,7 +12,7 @@ The buzz around [Mastodon's](https://mastodon.social/) federated social network 
 systems in the early nineties. It was an era that is unknown to most people. It was social networking before the phrase existed, and before
 giant corporations owned the social networks. Bulletin Board Systems had message boards, private messages, file sharing, and many of the
 social features that we are accustomed to in modern web and mobile applications.
-
+<!--excerpt-->
 I wrote, released and eventually sold my own BBS software called Dementia BBS Software from about 1989 to 1995. Dementia was written in C, and the
 source code that it was based on was called WWIV BBS Software. 
 
@@ -22,14 +22,14 @@ There is so much that I could say on this topic, but for the sake of this post, 
 
 <em>Update: This post was front-paged on Hacker News, and you can [see the discussion here.](https://news.ycombinator.com/item?id=14147583) Thanks to everyone on HN for the comments, I enjoyed the conversation!</em>
 
-# The Welcome Graphic
+### The Welcome Graphic
 
 Before logging in with a username and password (or registering as a new user), a user would be presented with a welcome message for the BBS 
 that they were on. This was the welcome message for my BBS, The Night Light. It was also the default welcome message for new Dementia installs.
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/WELCOME.ANS.png">
 
-# New User Registration
+### New User Registration
 
 Users filled out a new user profile.
 
@@ -43,31 +43,31 @@ validate new users.
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/NUVSCRN.ANS.png">
 
-# Logging on
+### Logging on
 Logging on required authorization.
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/USERBOX.ANS.png">
 
-# Matrix Login
+### Matrix Login
 Matrix login was the name of an optional feature where everyone was presented with this menu before logging in, and unvalidated
 users could not get past this menu (as opposed to seeing a limited main menu).
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/MATRIX.ANS.png">
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/MPWORD.ANS.png">
 
-# The Main Menu
+### The Main Menu
 Once logged in, the user was presented with a main menu that would allow them to access other areas of the BBS.
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/MAINM.ANS.png">
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/MAINP.ANS.png">
 
-# The Time Bank
+### The Time Bank
 Users were given an amount of time that they were allowed on the system per day, and could deposit time that they did not use for
 the day into a time bank, which could with withdrawed at a later date.
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/TIMEBANK.ANS.png">
 
-# Personal User Preferences
+### Personal User Preferences
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/UCOMMENT.ANS.png">
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/PDATAM.ANS.png">
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/PDATAP.ANS.png">
@@ -77,7 +77,7 @@ There were different menu sets (like themes) made by different artists and mysel
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/MENUTYPE.ANS.png">
 
-# The Messaging System
+### The Messaging System
 
 The text editor for composing public and private messages was full featured.
 
@@ -92,7 +92,7 @@ The text editor for composing public and private messages was full featured.
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/SCANM.ANS.png">
 
 
-# The File System
+### The File System
 
 The file menu allowed users to upload and download files.
 
@@ -133,14 +133,14 @@ Someone could be a SysOp of the file area, but not other parts of the system.
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/FSYSOPM.ANS.png">
 
-# The BBS List
+### The BBS List
 
 SysOps of other BBSs could add the phone number of their BBS to a directory of BBSs.
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/BBSM.ANS.png">
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/BBSP.ANS.png">
 
-# Internode Chat
+### Internode Chat
 The final version of Dementia supported multi-node operation. It was an extremely beta feature, but it meant that two users could
 use the system at one time. I only had one phone line, but using the OS/2 operating system, I was able to run two instances of my BBS
 which shared the same data, allowing me to login and use my BBS at the same time as a logged in user. Users logged in across nodes could 
@@ -149,13 +149,13 @@ chat with eachother.
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/NODEHELP.ANS.png">
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/NODELIST.ANS.png">
 
-# The Logoff Graphic
+### The Logoff Graphic
 
 When logging off, right before disconnecting, the user was shown this.
 
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/LOGOFF.ANS.png">
 
-# Miscellaneous
+### Miscellaneous
 
 This was the root level SysOp menu, where other administrative areas could be accessed.
 
@@ -185,7 +185,7 @@ knew someone had logged on.
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/UEDIT.ANS.png">
 <img src="/assets/posts/2017-04-18-my-bbs-software-from-1993/UPLOAD.ANS.png">
 
-# Distribution Docs & Text
+### Distribution Docs & Text
 
 Below is the documentation that I included with the zip file download. Dementia allowed you to build custom menus, and one of the 
 goals of the documentation was to list the "action codes" that were available for menu items. Each menu item was available to users 
