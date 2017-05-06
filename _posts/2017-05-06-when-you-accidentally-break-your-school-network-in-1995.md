@@ -3,7 +3,6 @@ layout: post
 title: When You Accidentally Break Your School Network in 1995
 published: true
 twitter_plug: true
-image: /assets/posts/2017-05-06-when-you-accidentally-break-your-school-network-in-1995/a1-partial-Asbury_Park_Press_Sat__Feb_11__1995.jpg  
 ---
 
 In my last post, I reminisced about [my bbs software that I wrote and sold in 1993](/2017/04/18/my-bbs-software-from-1993/). In 1995, I 
