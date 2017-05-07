@@ -91,7 +91,7 @@ it was not able to fix the problem.
 
 After some digging I had found something. For every executable (.exe) file on the computer, there was also a shadow 
 .com file on the computer with the same filename but a .com extension. These .com files were hidden, and they were very
-small in size. If there was a program.exe, there was also a a small, hidden program.com counterpart.
+small in size. If there was a program.exe, there was also a small, hidden program.com counterpart.
 
 If I ran program.com it did the same thing as program.exe, so it was clear that it was launching the executable, likely after doing 
 something else (like loading the memory resident KKV behavior).
@@ -136,7 +136,7 @@ He was understandably shook and gave up my name.
 
 ### The capture
 
-I was in in my AP English class when I was called to the principal's office. I had never been to the principal's 
+I was in my AP English class when I was called to the principal's office. I had never been to the principal's 
 office before or in any kind of trouble.
 
 I passed my friend in the hallway. He was visibly shaken but I was relieved when he uttered the words "They know."
