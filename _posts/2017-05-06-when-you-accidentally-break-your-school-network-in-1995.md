@@ -12,6 +12,11 @@ so surely it would keep purring without a hiccup. Right?
 
 <!--excerpt-->
 
+<em>
+	Update: This post was front-paged on Hacker News, and you can [see the discussion here.](https://news.ycombinator.com/item?id=14280000)
+	Thanks for the conversation HN!
+</em>
+
 ### No policy meant running programs from home
 
 There was no policy around the usage of the computers, and bringing in files and software from home on a floppy disk was typical. Having access 
