@@ -110,7 +110,7 @@ this sped up the process of removing the virus from a computer. I can't remember
 McAffee didn't, but I remember it was written in another country. Norway?
 
 Having identified the cause as a known virus, and the fix as this particular anti-virus software that was able to identify and remove
-it, I communicated this to the school. I offered to come to school over the weekend with my father, who mainteained a network at
+it, I communicated this to the school. I offered to come to school over the weekend with my father, who maintained a network at
 a college, and fix the problem. The two of us would run the anti-virus software on each of the computers.
 
 However, it turned out that cleaning an individual computer on the network was not enough. On boot, each individual computer on the network
