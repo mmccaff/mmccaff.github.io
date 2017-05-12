@@ -6,7 +6,7 @@ title: About
 <p class="message">
    Hi, I'm Matt.
    <br><br>
-   I enjoy building delightful software, growing successful startups, and coffee.
+   I enjoy building delightful software, growing successful startups, and drinking strong coffee.
    <br><br>
    I'll use this site to blog about topics that are interesting to me.
 </p>
