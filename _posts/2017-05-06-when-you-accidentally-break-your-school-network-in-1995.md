@@ -58,7 +58,7 @@ file named KKV.90.
 
 Amazing. It worked.
 
-So, I saw that it worked and it was time to remove it. I deleted the executable KKV program that I had ran, and rebooted the computer so 
+So, I saw that it worked and it was time to remove it. I deleted the executable KKV program that I had run, and rebooted the computer so 
 that it would no longer be resident in memory.
 
 That was that. I was done with KKV. Or so I thought. 
@@ -76,7 +76,7 @@ I was pretty confident that he'd find the problem and fix it. He was a clever gu
 My friend called me again to inform me of a similarity that he had found among the computers that were locking up: they all contained 
 a text file called KKV.90. My heart sank.
 
-I explained to him that the utility program that I had ran a few days previous logged key strokes to a file with that name.
+I explained to him that the utility program that I had run a few days previous logged key strokes to a file with that name.
 
 It didn't take long before all of the computers were locking up in the same way.
 
@@ -87,7 +87,7 @@ all of the computers!?
 
 No big deal, I thought. I knew the root cause of the problem, that was half of the battle. Now I just had to fix it.
 
-I considered whether or not I should tell the school's staff everything that I knew. Specifically, that I had ran the offending program.
+I considered whether or not I should tell the school's staff everything that I knew. Specifically, that I had run the offending program.
 There were rumors of expelling a student if they were found to have caused this, so I thought it was best to just fix it and stay quiet. 
 I told my parents everything, and their advice aligned with my own plans. Just fix it.
 
