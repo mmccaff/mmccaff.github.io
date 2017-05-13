@@ -77,7 +77,8 @@ cp myapp.dev mmccaff-myapp.ngrok.io
 edited mmccaff-myapp.ngrok.io to set 
    server_name mmccaff-myapp.ngrok.io;
 cd /etc/nginx/sites-enabled
-sudo ln -s ../sites-available/mmccaff-myapp.ngrok.io .
+sudo ln -s \
+../sites-available/mmccaff-myapp.ngrok.io .
 sudo service nginx restart
 ```
 
