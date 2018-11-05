@@ -3,7 +3,7 @@ layout: post
 title: Laravel Permissions in Vue Components
 published: true
 twitter_plug: true
-image: /assets/posts/2018-11-03-laravel-permissions-in-vue-components/vue-logo.png
+image: https://bit.ly/2RCY0gm
 ---
 
 I use Spatie's excellent [laravel-permission](https://github.com/spatie/laravel-permission) package in a Laravel 5.7 application to create permissions, assign them to roles, and assign roles to users. I frequently want to check whether an authenticated user has a specific permission. The package includes Blade directives such as @hasrole and @can that can be used in views, but there isn't a standard for checking a user's permission within a Vue component. Passing props to each component can become tiresome and inconsistent. What if there was a better way?
