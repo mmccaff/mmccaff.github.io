@@ -3,7 +3,7 @@ layout: post
 title: My BBS Software From 1993
 published: true
 twitter_plug: true
-image: /assets/posts/2017-04-18-my-bbs-software-from-1993/WELCOME.ANS.png
+image: https://bit.ly/2RCY0gm
 ---
 
 
