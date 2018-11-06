@@ -34,6 +34,9 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
+plugins:
+  - jekyll-sitemap
+
 pages_list:       
   About: '/about'
   Archive: '/archive'
