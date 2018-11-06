@@ -33,6 +33,7 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-sitemap
 
 plugins:
   - jekyll-sitemap
