@@ -2,7 +2,7 @@
 layout: post
 title: Secure Tunnels to Laravel Homestead Using ngrok
 published: true
-adsense: true
+adsense: false
 twitter_plug: true
 ---
 
